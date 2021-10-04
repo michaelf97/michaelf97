@@ -7,3 +7,6 @@
 - 🌱 I’m in my last year of a Cyber Security and Forensics degree
 - 🥅 2021/2022 Goals: Develop an application using Rust WASM (application idea is private 😉!)
 - ⚡ Fun fact: I love rowing 🚣‍♂️ and hiking/camping 🥾/⛺
+
+## Connect with me
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/michael-forret/]
