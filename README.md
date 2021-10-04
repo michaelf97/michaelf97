@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=fullproxy.com&style=for-the-badge&url=https%3A%2F%2Ffullproxy.com)](https://fullproxy.com)
 
 - 🔭 I’m currently working on improving my Rust Programming for a better low level understanding
-- 🌱 I’m in my last year of a Cyber Security and Forensics degree
+- 🌱 I’m in my last year of a Cyber Security degree
 - 🥅 2021/2022 Goals: Develop an application using Rust WASM (application idea is private 😉!)
 - ⚡ Fun fact: I love rowing 🚣‍♂️ and hiking/camping 🥾/⛺
 
