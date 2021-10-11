@@ -1,7 +1,6 @@
 ### Hi there, I'm Michael 👋
 
-## I'm a Graduate Apprentice at Edinburgh Napier University and a Cyber Security Engineer at Fullproxy
-[![Website](https://img.shields.io/website?label=fullproxy.com&style=for-the-badge&url=https%3A%2F%2Ffullproxy.com)](https://fullproxy.com)
+## I'm a Graduate Apprentice at Edinburgh Napier University and a Cyber Security Engineer who loves to code!
 
 - 🔭 I’m currently working on improving my Rust Programming for a better low level understanding
 - 🌱 I’m in my last year of a Cyber Security degree
