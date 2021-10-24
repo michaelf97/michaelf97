@@ -2,7 +2,7 @@
 
 ## I'm a Graduate Apprentice at Edinburgh Napier University and a Cyber Security Engineer who loves to code!
 
-- 🔭 Constantly developing my Rust Programming for a better low level understanding! 
+- 🔭 Constantly developing my Rust Programming for a better low level understanding and working through [Zero To Production](https://www.zero2prod.com/)! 
 - 🌱 I’m in my final year of a Cyber Security degree
 - 🥅 2021/2022 Goals: Develop an application using Rust WASM (application idea is private 😉!)
 - ⚡ Fun fact: I love rowing 🚣‍♂️ and hiking/camping 🥾/⛺
